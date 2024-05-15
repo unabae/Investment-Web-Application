@@ -4,11 +4,11 @@ import Result from "./components/Result";
 
 function App() {
   return (
-    <main>
+    <>
       <Header />
-      <UserInput/>
+      <UserInput />
       <Result />
-    </main>
+    </>
   );
 }
 
